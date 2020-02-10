@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878405661486",
+    "firebase_url": "https://ketorant-b5ac5.firebaseio.com",
+    "project_id": "ketorant-b5ac5",
+    "storage_bucket": "ketorant-b5ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878405661486:android:6dada2102d24fe4d9b40bf",
+        "android_client_info": {
+          "package_name": "com.giyoon.ketorant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878405661486-8g8mutv3dtht19cc6l5j0ci2cpmj5a3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.giyoon.ketorant",
+            "certificate_hash": "e38847a99884fa933cb0dda719cdf99c1862505e"
+          }
+        },
+        {
+          "client_id": "878405661486-gu4vakebfl3hef2ni3mi2cooi20hg1rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL69VMVTbgi3JWR4IDmFxN7IIOfhIkVJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878405661486-gu4vakebfl3hef2ni3mi2cooi20hg1rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

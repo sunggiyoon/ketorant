@@ -1,3 +1,33 @@
 <resources>
+    // 앱 기본 정보
     <string name="app_name">Ketorant</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="copyright">Ketorant</string>
+
+    // 이메일로 계정만들기
+    <string name="tx_create_account_email_message">Verify Your E-mail</string>
+    <string name="tx_create_account_email_message_detail">Please enter your E-mail \n and Password for verification</string>
+    <string name="create_account_with_email">Sign In</string>
+    <string name="etx_email">Your E-Mail</string>
+    <string name="etx_pass">Password</string>
+
+    //전화번호로 계정만들기
+    <string name="tx_create_account_phone_message">Verify Your Number</string>
+    <string name="tx_create_account_phone_message_detail">Please enter your country code  \n and your phone number for verification</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="etx_phone">Your Phone Number</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    Facebook       -->
+    <string name="facebook_app_id">604339120421805</string>
+    <string name="fb_login_protocol_scheme">fb604339120421805</string>
+
+
 </resources>
